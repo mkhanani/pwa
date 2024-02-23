@@ -4,7 +4,7 @@ let products = [
         title: "Cat Food, 25lb bag",
         description: "A 25 pound bag of <em>irresistible</em>,"+"organic goodness for your cat",
         price: 2000,
-        image: "images/Cat Food.jpg",
+        image: "images/cat-food.jpg",
         availableInventory: 10,
         rating: 3
     },
@@ -13,7 +13,7 @@ let products = [
         title: "Yarn",
         description: "A 25 pound bag of <em>irresistible</em>,"+"organic goodness for your cat",
         price: 500,
-        image: "images/Yarn.jpg",
+        image: "images/yarn.jpg",
         availableInventory: 10,
         rating: 3
     },
@@ -22,7 +22,7 @@ let products = [
         title: "Kitty Litter",
         description: "Thomas Cat Litter is the suitable choice for cats that are equally picky and discerning.",
         price: 1000,
-        image: "images/Kitty Litter.jpg",
+        image: "images/kitty-litter.jpg",
         availableInventory: 10,
         rating: 3
     },
@@ -31,7 +31,7 @@ let products = [
         title: "Cat Scratching Post",
         description: "This Gluckluz cat scratch post is easy to assemble and disassemble, take only 3 steps, less than 5 minutes to install.",
         price: 2500,
-        image: "images/Cat Scratching Post.jpg",
+        image: "images/cat-scratching-post.jpg",
         availableInventory: 10,
         rating: 3
     },
@@ -40,7 +40,7 @@ let products = [
         title: "Cat Bed for Indoor Cats",
         description: "🍩 With a triangular entrance and cave-like design, 2-in-1 enclosed pet tent bed functions, this keeps them feel safe and sheltered.",
         price: 1200,
-        image: "images/Cat Bed.jpg",
+        image: "images/cat-bed.jpg",
         availableInventory: 10,
         rating: 3
     }
